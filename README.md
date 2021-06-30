@@ -24,7 +24,7 @@ Example with [Sentinel-2](https://en.wikipedia.org/wiki/Sentinel-2) satellite, w
 
 ### Cloud Optimized GeoTIFF
 Here you can find the Cloud Optimized GeoTIFF.
-- [COG - NDVI Bhutan forest sample](https://github.com/diegoalarc/Challenge_up42/raw/main/Bhutan_NDVI.html)
+- [COG - NDVI Bhutan forest sample](https://rawcdn.githack.com/diegoalarc/Challenge_up42/main/Bhutan_NDVI.html)
 
 ### Presentation
 Here you can download a small presentation to show the capabilities and great advantages of using the Up42 API.
