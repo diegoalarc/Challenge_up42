@@ -36,5 +36,5 @@ Here you can find the necessary documentation to be able to work with the Python
 - [SDK Here](https://sdk.up42.com/)
 
 ### More
-If you wish, you can also visit the company's GitHub to find more examples.
-- [GitHub Here](https://github.com/up42)
+If you wish, you can also visit the UP42-GitHub to find more examples.
+- [UP42-GitHub ](https://github.com/up42)
