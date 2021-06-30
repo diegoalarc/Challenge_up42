@@ -20,7 +20,7 @@ To carry out this project we used:
 - [x] [Jupyter Notebook](https://jupyter.org/)
 - [x] [GitHub](https://github.com/)
 
-### Here you can find:
+### Here you can find
 Catalog of the Spot, Pleiades and Sentinel-2 satellites to be able to observe the availability of images of our main products, for the most current dates.
 - [Press Here](https://github.com/diegoalarc/Challenge_up42/blob/main/Catalog_Search_Bhutan.ipynb)
 
