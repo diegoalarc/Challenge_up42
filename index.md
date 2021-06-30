@@ -1,7 +1,10 @@
 ## NDVI Bhutan forest sample
 
-Here's the NDVI Bhutan forest sample
+Here we can see:
+- The total area of the Bhutan forest in "geojson" format
+- Sample Map NDVI - Bhutan forests
 
 <p align="center"><iframe src="Bhutan_NDVI.html" height="500" width="800"></iframe></p>
 
-You can explore this map [as its own web page here](https://diegoalarc.github.io/Challenge_up42/).
+Thanks to Up42 for making this challenge so entertaining !!
+[Go back to the Repo here](https://github.com/diegoalarc/Challenge_up42)
