@@ -29,7 +29,7 @@ Here you can find the Cloud Optimized GeoTIFF.
 
 ### Presentation
 Here you can download a small presentation to show the capabilities and great advantages of using the Up42 API.
-- [Presentation Here]()
+- [Presentation Here]() under construction!!
 
 ### SDK Up42
 Here you can find the necessary documentation to be able to work with the Python SKD created by Up42.
