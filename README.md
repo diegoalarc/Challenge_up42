@@ -32,7 +32,7 @@ Here you can find the Cloud Optimized GeoTIFF.
 To solve the problem we are facing, one of the best possible and quick solutions through the use of satellite images is the use of NDVI. That is why as the first option, within our options is to obtain the values for the Bhutan forest with [Modis](https://en.wikipedia.org/wiki/Moderate_Resolution_Imaging_Spectroradiometer) images. In our case, since we are requested to be current information and when checking that there are no good current images of this satellite, we have resorted to the use of [Sentinel-2](https://en.wikipedia.org/wiki/Sentinel-2), which can provide us with quite detailed information and with a good temporal frequency.
 
 To better understand what the NDVI values mean, we invite you to click on the following link:
-- [Click here](https://eos.com/blog/ndvi-faq-all-you-need-to-know-about-ndvi/)
+- [Press here](https://eos.com/blog/ndvi-faq-all-you-need-to-know-about-ndvi/)
 
 ### Presentation
 Here you can download a small presentation to show the capabilities and great advantages of using the Up42 API.
