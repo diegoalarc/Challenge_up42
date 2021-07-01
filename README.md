@@ -27,7 +27,7 @@ Catalog of the Spot, Pleiades and Sentinel-2 satellites to be able to observe th
 Example with [Modis](https://en.wikipedia.org/wiki/Moderate_Resolution_Imaging_Spectroradiometer) satellite to be able to observe an option that can give us a general view of the Bhutan forest.
 - [Press Here](https://github.com/diegoalarc/Challenge_up42/blob/main/Up42_Challenge_Modis.ipynb)
 
-Example with [Sentinel-2](https://en.wikipedia.org/wiki/Sentinel-2) satellite, which we used to analyze a sample of the Bhutan forest, and with which we will generate a simple [NDVI](https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index) analysis.
+Example with [Sentinel-2](https://en.wikipedia.org/wiki/Sentinel-2) satellite, which we used to analyze a sample of the Bhutan forest, and with which we will generate a simple Normalized difference vegetation index or [NDVI](https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index) analysis.
 - [Press Here](https://github.com/diegoalarc/Challenge_up42/blob/main/Up42_Challenge_Sentinel_2.ipynb)
 
 ### Cloud Optimized GeoTIFF
@@ -41,6 +41,14 @@ To solve the problem we are facing, one of the best possible and quick solutions
 
 To better understand what the NDVI values mean, we invite you to click on the following link:
 - [Press here](https://eos.com/blog/ndvi-faq-all-you-need-to-know-about-ndvi/)
+
+### Why all the bands?
+When we download the images from Up42-SDK, for this example, we also download the other bands at 10 meters that Sentinel-2 incorporates (a total of 12 bands). It is important not to eliminate them, since it is possible to generate different analyzes to more accurately determine the health of the forest by applying a spectral analysis when generating other indices. For this, we would like to invite you to investigate further or, in your case, analyze the data with your team of professionals familiar with remote sensing.
+
+Check the following link to learn combinations of different indexes.
+- [Press here](https://www.indexdatabase.de/)
+
+note: NDVI is an index.
 
 ### Presentation
 Here you can download a small presentation to show the capabilities and great advantages of using the Up42 API.
