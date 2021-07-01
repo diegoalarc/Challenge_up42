@@ -30,11 +30,6 @@ Example with [Modis](https://en.wikipedia.org/wiki/Moderate_Resolution_Imaging_S
 Example with [Sentinel-2](https://en.wikipedia.org/wiki/Sentinel-2) satellite, which we used to analyze a sample of the Bhutan forest, and with which we will generate a simple Normalized difference vegetation index or [NDVI](https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index) analysis.
 - [Press Here](https://github.com/diegoalarc/Challenge_up42/blob/main/Up42_Challenge_Sentinel_2.ipynb)
 
-### Cloud Optimized GeoTIFF
-Here you can find the Cloud Optimized GeoTIFF.
-
-- [COG - NDVI Bhutan forest sample](https://diegoalarc.github.io/Challenge_up42/)
-
 ### Possible customer solution
 
 To solve the problem we are facing, one of the best possible and quick solutions through the use of satellite images is the use of NDVI. That is why as the first option, within our options is to obtain the values for the Bhutan forest with [Modis](https://en.wikipedia.org/wiki/Moderate_Resolution_Imaging_Spectroradiometer) images. In our case, since we are requested to be current information and when checking that there are no good current images of this satellite, we have resorted to the use of [Sentinel-2](https://en.wikipedia.org/wiki/Sentinel-2), which can provide us with quite detailed information and with a good temporal frequency.
@@ -51,6 +46,11 @@ In most cases, NDVI values between 0.2 and 0.4 correspond to areas with sparse v
 Traditionally, NDVI results are presented as a color map, where each color corresponds to a certain range of values. There’s no standard color palette, but most software uses the “red-green” one, meaning that red-orange-yellow tints indicate bare soil or dead/sparse vegetation, and all shades of green are a sign of normal to dense vegetation cover.
 
 ![Bhutan NDVI histogram](https://github.com/diegoalarc/Challenge_up42/blob/main/Bhutan_ndvi_histogram.png)
+
+### Sample on the web
+Here you can find a quick view version of the Bhutan forest sample area.
+
+- [NDVI Bhutan forest sample](https://diegoalarc.github.io/Challenge_up42/)
 
 ### Why all the bands?
 When we download the images from Up42-SDK, for this example, we also download the other bands at 10 meters that Sentinel-2 incorporates (a total of 12 bands). It is important not to eliminate them, since it is possible to generate different analyzes to more accurately determine the health of the forest by applying a spectral analysis when generating other indices. For this, we would like to invite you to investigate further or, in your case, analyze the data with your team of professionals familiar with remote sensing.
