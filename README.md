@@ -38,7 +38,9 @@ To better understand what the NDVI values mean, we invite you to click on the fo
 - [Press here](https://eos.com/blog/ndvi-faq-all-you-need-to-know-about-ndvi/)
 
 Here it is possible to observe the sample located with center at the coordinates:
+
 Latitude: 27.25 
+
 Longitude: 90.4
 ![NDVI - Sample of the forests in Bhutan](https://github.com/diegoalarc/Challenge_up42/blob/main/ndvi-image.png)
 
