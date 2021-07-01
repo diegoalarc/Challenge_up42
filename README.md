@@ -62,7 +62,7 @@ note: NDVI is an index.
 
 ### Presentation
 Here you can download a small presentation to show the capabilities and great advantages of using the Up42 API.
-- [Presentation Here]() under construction!!
+- [Presentation Here](https://github.com/diegoalarc/Challenge_up42/raw/main/Presentation_CS_Up42.pptx)
 
 ### SDK Up42
 Here you can find the necessary documentation to be able to work with the Python SKD created by Up42.
