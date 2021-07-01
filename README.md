@@ -37,7 +37,9 @@ To solve the problem we are facing, one of the best possible and quick solutions
 To better understand what the NDVI values mean, we invite you to click on the following link:
 - [Press here](https://eos.com/blog/ndvi-faq-all-you-need-to-know-about-ndvi/)
 
-Here it is possible to observe the sample located at the coordinates Latitude: 27.25 & Longitude: 90.4 approximately.
+Here it is possible to observe the sample located with center at the coordinates:
+Latitude: 27.25 
+Longitude: 90.4
 ![NDVI - Sample of the forests in Bhutan](https://github.com/diegoalarc/Challenge_up42/blob/main/ndvi-image.png)
 
 A Histogram could be useful for quick analysis by giving a visual insight into the distribution of "healthy" vs "unhealthy" vegetation values in your study area.
