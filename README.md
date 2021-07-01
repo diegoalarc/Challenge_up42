@@ -42,6 +42,16 @@ To solve the problem we are facing, one of the best possible and quick solutions
 To better understand what the NDVI values mean, we invite you to click on the following link:
 - [Press here](https://eos.com/blog/ndvi-faq-all-you-need-to-know-about-ndvi/)
 
+Here it is possible to observe the sample located at the coordinates Latitude: 27.25 & Longitude: 90.4 approximately.
+![NDVI - Sample of the forests in Bhutan](https://github.com/diegoalarc/Challenge_up42/blob/main/ndvi-image.png)
+
+A Histogram could be useful for quick analysis by giving a visual insight into the distribution of "healthy" vs "unhealthy" vegetation values in your study area.
+Healthy, dense vegetation canopy should be above 0.5, and sparse vegetation will most likely fall within 0.2 to 0.5. However, it’s only a rule of thumb and you should always take into account the season, type of plant and regional peculiarities to know exactly what NDVI values mean.
+In most cases, NDVI values between 0.2 and 0.4 correspond to areas with sparse vegetation; moderate vegetation tends to vary between 0.4 and 0.6; anything above 0.6 indicates the highest possible density of green leaves.
+Traditionally, NDVI results are presented as a color map, where each color corresponds to a certain range of values. There’s no standard color palette, but most software uses the “red-green” one, meaning that red-orange-yellow tints indicate bare soil or dead/sparse vegetation, and all shades of green are a sign of normal to dense vegetation cover.
+
+![Bhutan NDVI histogram](https://github.com/diegoalarc/Challenge_up42/blob/main/Bhutan_ndvi_histogram.png)
+
 ### Why all the bands?
 When we download the images from Up42-SDK, for this example, we also download the other bands at 10 meters that Sentinel-2 incorporates (a total of 12 bands). It is important not to eliminate them, since it is possible to generate different analyzes to more accurately determine the health of the forest by applying a spectral analysis when generating other indices. For this, we would like to invite you to investigate further or, in your case, analyze the data with your team of professionals familiar with remote sensing.
 
