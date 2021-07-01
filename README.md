@@ -67,8 +67,10 @@ Check the following link to learn combinations of different indexes.
 note: NDVI is an index.
 
 ### Presentation
-Here you can download a small presentation to show the capabilities and great advantages of using the Up42 API.
+Here you can download the presentation prepared for the challenge:
 - [Presentation Here](https://github.com/diegoalarc/Challenge_up42/raw/main/Presentation_CS_Up42.pptx)
+
+note: The presentation is complementary together with [this ipynb](https://github.com/diegoalarc/Challenge_up42/blob/main/Up42_Challenge_Sentinel_2.ipynb)
 
 ### SDK Up42
 Here you can find the necessary documentation to be able to work with the Python SKD created by Up42.
