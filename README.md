@@ -1,4 +1,4 @@
-# ++*[UP42](https://up42.com/) Customer Support Challenge*++
+# <span style="text-decoration:underline">*[UP42](https://up42.com/) Customer Support Challenge*</span>
 
 ### ++Objective (why)++
 Our main role as customer support engineers is to make sure we understand the customer problem and we help in finding a solution to the problem.
