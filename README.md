@@ -37,7 +37,7 @@ To solve the problem we are facing, one of the best possible and quick solutions
 To better understand what the NDVI values mean, we invite you to click on the following link:
 - [Press here](https://eos.com/blog/ndvi-faq-all-you-need-to-know-about-ndvi/)
 
-Here it is possible to observe the sample with the least cloudiness, located with center at the coordinates:
+Additionally, here it is possible to observe the NDVI sample with the least cloudiness, located with center at the coordinates:
 
 Latitude: 27.25 
 
